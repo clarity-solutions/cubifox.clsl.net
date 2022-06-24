@@ -8581,7 +8581,7 @@ amH:function amH(a){this.a=a},
 amI:function amI(a){this.a=a},
 ao8(a,b){var s=0,r=A.C(t.z),q
 var $async$ao8=A.y(function(c,d){if(c===1)return A.z(d,r)
-while(true)switch(s){case 0:q="http://192.168.50.120:3000"+("?tradeID="+b+"&poster="+a.b.j(0)+"&itemID="+a.c+"&price="+a.d.j(0))
+while(true)switch(s){case 0:q="https://transaction.cubifox.clsl.net"+("?tradeID="+b+"&poster="+a.b.j(0)+"&itemID="+a.c+"&price="+a.d.j(0))
 s=2
 return A.G(A.Wf(A.hj(q,0,null)),$async$ao8)
 case 2:if(!d)throw A.e("Could not launch "+q)
@@ -8597,7 +8597,7 @@ this.b=b},
 agZ:function agZ(a){this.a=a},
 ao7(a){var s=0,r=A.C(t.z),q
 var $async$ao7=A.y(function(b,c){if(b===1)return A.z(c,r)
-while(true)switch(s){case 0:q="http://192.168.50.120:3000"+("?itemID="+a)
+while(true)switch(s){case 0:q="https://transaction.cubifox.clsl.net"+("?itemID="+a)
 s=2
 return A.G(A.Wf(A.hj(q,0,null)),$async$ao7)
 case 2:if(!c)throw A.e("Could not launch "+q)
