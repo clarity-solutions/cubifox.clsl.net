@@ -1,11 +1,11 @@
 {
-  "name": "cubifox",
-  "short_name": "cubifox",
+  "name": "Cubifox",
+  "short_name": "Cubifox",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0175C2",
-  "theme_color": "#0175C2",
-  "description": "A new Flutter project.",
+  "background_color": "#ff9900",
+  "theme_color": "#ff9900",
+  "description": "3Dモデル専門NFTマーケットプレイス",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
